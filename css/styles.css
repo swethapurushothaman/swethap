@@ -25,7 +25,7 @@ body {
   
   h3 {
     font-family: 'Montserrat', sans-serif;
-    color: #917FB3;
+    color: #2A2F4F  ;
   }
   
   .top-container {
@@ -147,7 +147,7 @@ body {
   .btn1 {
     margin-top: 4.5rem;
     margin-bottom: 4.5rem;
-    font-family:'Courier New', Courier;
+    font-family:'Courier New', Courier, mospace;
     font-size: 1.5rem;
     color: #2A2F4F;
     padding: 0.4rem 1.5rem 0.4rem 1.5rem;
